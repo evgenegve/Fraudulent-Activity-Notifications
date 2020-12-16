@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fraudulent Activity Notifications", "Fraudulent Activity Notifications\Fraudulent Activity Notifications.csproj", "{781ADADB-DCF4-4DE2-9E9D-0F0C4EF3A13C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{781ADADB-DCF4-4DE2-9E9D-0F0C4EF3A13C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{781ADADB-DCF4-4DE2-9E9D-0F0C4EF3A13C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{781ADADB-DCF4-4DE2-9E9D-0F0C4EF3A13C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{781ADADB-DCF4-4DE2-9E9D-0F0C4EF3A13C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0907C603-E02E-49A8-9684-53308A2CF67A}
+	EndGlobalSection
+EndGlobal
